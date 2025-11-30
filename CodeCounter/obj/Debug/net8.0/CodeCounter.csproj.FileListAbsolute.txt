@@ -1,0 +1,14 @@
+C:\Users\Johannes Blank\Desktop\ToolsANDBackend\CodeCounter\bin\Debug\net8.0\CodeCounter.exe
+C:\Users\Johannes Blank\Desktop\ToolsANDBackend\CodeCounter\bin\Debug\net8.0\CodeCounter.deps.json
+C:\Users\Johannes Blank\Desktop\ToolsANDBackend\CodeCounter\bin\Debug\net8.0\CodeCounter.runtimeconfig.json
+C:\Users\Johannes Blank\Desktop\ToolsANDBackend\CodeCounter\bin\Debug\net8.0\CodeCounter.dll
+C:\Users\Johannes Blank\Desktop\ToolsANDBackend\CodeCounter\bin\Debug\net8.0\CodeCounter.pdb
+C:\Users\Johannes Blank\Desktop\ToolsANDBackend\CodeCounter\obj\Debug\net8.0\CodeCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johannes Blank\Desktop\ToolsANDBackend\CodeCounter\obj\Debug\net8.0\CodeCounter.AssemblyInfoInputs.cache
+C:\Users\Johannes Blank\Desktop\ToolsANDBackend\CodeCounter\obj\Debug\net8.0\CodeCounter.AssemblyInfo.cs
+C:\Users\Johannes Blank\Desktop\ToolsANDBackend\CodeCounter\obj\Debug\net8.0\CodeCounter.csproj.CoreCompileInputs.cache
+C:\Users\Johannes Blank\Desktop\ToolsANDBackend\CodeCounter\obj\Debug\net8.0\CodeCounter.dll
+C:\Users\Johannes Blank\Desktop\ToolsANDBackend\CodeCounter\obj\Debug\net8.0\refint\CodeCounter.dll
+C:\Users\Johannes Blank\Desktop\ToolsANDBackend\CodeCounter\obj\Debug\net8.0\CodeCounter.pdb
+C:\Users\Johannes Blank\Desktop\ToolsANDBackend\CodeCounter\obj\Debug\net8.0\CodeCounter.genruntimeconfig.cache
+C:\Users\Johannes Blank\Desktop\ToolsANDBackend\CodeCounter\obj\Debug\net8.0\ref\CodeCounter.dll

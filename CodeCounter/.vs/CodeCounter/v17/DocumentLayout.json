@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\code_report.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:code_report.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Models\\ClassGroupStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ClassGroupStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Models\\FileStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\FileStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Models\\ProjectStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ProjectStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Services\\FileScanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\FileScanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Services\\CodeParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\CodeParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Services\\ReportBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\ReportBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\CodeCounter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeCounter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "code_report.json",
+              "DocumentMoniker": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\code_report.json",
+              "RelativeDocumentMoniker": "code_report.json",
+              "ToolTip": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\code_report.json",
+              "RelativeToolTip": "code_report.json",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-30T11:19:41.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-30T11:02:30.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:02:15.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Services\\ReportBuilder.cs",
+              "RelativeDocumentMoniker": "Services\\ReportBuilder.cs",
+              "ToolTip": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Services\\ReportBuilder.cs",
+              "RelativeToolTip": "Services\\ReportBuilder.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:02:08.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CodeParser.cs",
+              "DocumentMoniker": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Services\\CodeParser.cs",
+              "RelativeDocumentMoniker": "Services\\CodeParser.cs",
+              "ToolTip": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Services\\CodeParser.cs",
+              "RelativeToolTip": "Services\\CodeParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:02:01.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileScanner.cs",
+              "DocumentMoniker": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Services\\FileScanner.cs",
+              "RelativeDocumentMoniker": "Services\\FileScanner.cs",
+              "ToolTip": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Services\\FileScanner.cs",
+              "RelativeToolTip": "Services\\FileScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:01:56.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectStats.cs",
+              "DocumentMoniker": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Models\\ProjectStats.cs",
+              "RelativeDocumentMoniker": "Models\\ProjectStats.cs",
+              "ToolTip": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Models\\ProjectStats.cs",
+              "RelativeToolTip": "Models\\ProjectStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:01:47.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassGroupStats.cs",
+              "DocumentMoniker": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Models\\ClassGroupStats.cs",
+              "RelativeDocumentMoniker": "Models\\ClassGroupStats.cs",
+              "ToolTip": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Models\\ClassGroupStats.cs",
+              "RelativeToolTip": "Models\\ClassGroupStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:01:37.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileStats.cs",
+              "DocumentMoniker": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Models\\FileStats.cs",
+              "RelativeDocumentMoniker": "Models\\FileStats.cs",
+              "ToolTip": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\Models\\FileStats.cs",
+              "RelativeToolTip": "Models\\FileStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:01:20.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CodeCounter.csproj",
+              "DocumentMoniker": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\CodeCounter.csproj",
+              "RelativeDocumentMoniker": "CodeCounter.csproj",
+              "ToolTip": "C:\\Users\\Johannes Blank\\Desktop\\ToolsANDBackend\\CodeCounter\\CodeCounter.csproj",
+              "RelativeToolTip": "CodeCounter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-30T11:01:03.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
